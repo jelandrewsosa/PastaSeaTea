@@ -20,7 +20,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <PastaSeateaContextComponent>
       <BrowserRouter>
         <Routes>
-          <Route path="/PastaSeaTea" element={<App />} />
+          <Route path="/" element={<App />} />
           <Route path="/*" element={<NotFoundView />} />
           <Route path="/menu" element={<Menu />}/>
           <Route path="/about" element={<About />}/>
