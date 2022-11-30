@@ -18,7 +18,7 @@ import MyOrdersListView from '../src/components/MyOrdersListView'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PastaSeateaContextComponent>
-      <BrowserRouter basename='/PastaSeaTea/'>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<App />} />
           <Route path="/*" element={<NotFoundView />} />
