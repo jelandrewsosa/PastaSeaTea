@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <>
       <Nav className={style.nav}>
-        <NavLink to="/">
+        <NavLink to="/PastaSeaTea">
           <h1>Pasta Seatea</h1>
         </NavLink>
         <Bars onClick={() => setOpen(true)} />
