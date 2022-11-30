@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Carbonara",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2626edit-600x900.jpg?p=8048",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Funghi E Piselli",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://blog.giallozafferano.it/dulcisinforno/wp-content/uploads/2014/11/4243.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Vongole",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://stripedspatula.com/wp-content/uploads/2019/06/linguine-with-clams-3-500x375.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Amatriciana",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/bucatini-amatriciana.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Fruttie Di Marre",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://ciaoflorentina.com/wp-content/uploads/2016/08/Seafood-Spaghetti-Recipe-Spaghetti-Frutti-di-Mare-4.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Cacciatore",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2022/01/chicken-cacciatore-3-500x500.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Pesto",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Basil-Pesto-Thumbnail.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Bolognese",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2020/01/pasta-bolognese-6-500x500.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Marinara",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2016/06/marinara-sauce-18-500x500.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Puttanesca",
+    "price": 199,
+    "type": "Pasta",
+    "image": "https://thecozyapron.com/wp-content/uploads/2021/05/pasta-puttanesca_thecozyapron_1.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Lobster Tàgliatelle",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://media-cdn.greatbritishchefs.com/media/ie0jymk2/img17207.jpg?mode=crop&width=768&height=512&center=0.4835,0.473",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Polpette di Gamberi",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://homemaderecipes.com/wp-content/uploads/2015/09/chilli-mud-crab-fried-mantou-singapore-crab-recipes-ss.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Calamari alla Marchigiana",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://www.nonnabox.com/wp-content/uploads/calamari-ripieni.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Acqua Pazza",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//Images/Dishes/d9dfa66b01974e40ac0d6f3b5e9bd5a9.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Involtini di Pesce Spada",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//images/dishes/83f1efb0a2354e568ede5b6f2fe74c3d.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Linguine all Astice",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/ea/03/cd/linguine-all-astice.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Cacciucco",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//Images/Dishes/7f7decd02f724c3bb2a1d7c549679e2d.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Brodetto",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//images/dishes/5eab322962384a82bc4b0da83605152c.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Fritto Misto di Pesce",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//Images/Dishes/58d34f7870a647bbb201f4526b29f61b.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Linguine allo Scoglio",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://edumjt7wgk8.exactdn.com/wp-content/uploads/2020/07/spaghetti-allo-scoglio.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Fritto Misto",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//images/dishes/55b3842a90bf4914b52ccbebdf868af4.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Spaghetti alle Vongole",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://simply-delicious-food.com/wp-content/uploads/2022/05/Spaghetti-Vongole6.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Baccalà Mantecato",
+    "price": 199,
+    "type": "Seafood",
+    "image": "https://cdn.tasteatlas.com//images/dishes/82ee816a375548d78901b1c2785b1ee5.jpg?w=905&h=510",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Coke",
+    "price": 199,
+    "type": "Drink",
+    "image": "https://onceuponathai.ie/wp-content/uploads/2021/02/coke.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Pepsi",
+    "price": 199,
+    "type": "Drink",
+    "image": "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/04803925033100/4357d11f18660c714f4c7042e7c0a875_large.png&width=512&type=webp&quality=90",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Iced Tea",
+    "price": 199,
+    "type": "Drink",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/3/1/FNM_070111-Centerfold-007_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597847872.jpeg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Chocolate Frappe",
+    "price": 199,
+    "type": "Frappe",
+    "image": "https://insanelygoodrecipes.com/wp-content/uploads/2021/07/Chocolate-Shake-with-Chocolate-Syrup-Whipped-Cream-and-Cherry-500x500.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Mango Frappe",
+    "price": 199,
+    "type": "Frappe",
+    "image": "https://www.cookwithkushi.com/wp-content/uploads/2021/04/IMG_3472_.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Strawberry Frappe",
+    "price": 199,
+    "type": "Frappe",
+    "image": "https://i.pinimg.com/originals/b6/93/29/b6932981323319eda5b852c07b71e66d.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Apple Frappe",
+    "price": 199,
+    "type": "Frappe",
+    "image": "https://detoxinista.com/wp-content/uploads/2020/10/apple-smoothie-recipe.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  },
+  {
+    "name": "Wintermelon",
+    "price": 199,
+    "type": "Tea",
+    "image": "https://sugaryums.co.uk/wp-content/uploads/2022/02/Okinawa-Milk-Tea-SugarYums-1-720x960.jpg",
+    "typography": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sequi delectus numquam dicta, sapiente error possimus. Cupiditate consequuntur eaque, inventore a cumque exercitationem amet aspernatur esse incidunt perferendis nulla provident!"
+  }
+]

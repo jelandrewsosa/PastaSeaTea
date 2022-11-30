@@ -1,0 +1,33 @@
+.nav {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100vw;
+  filter: blur(0.5px);
+  opacity: 0.96;
+}
+
+.nav h1 {
+  color: rgb(218, 145, 145);
+  font-size: 3rem;
+  font-family: Clicker Script !important;
+}
+
+@media screen and (max-width: 768px) {
+  .navItems {
+    display: block !important;
+    height: 30px;
+  }
+  .drawer span {
+    color: rgb(37, 35, 35) !important;
+    text-align: left;
+  }
+  .menuItem {
+    padding-left: 10px !important;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .drawer {
+    display: none !important;
+  }
+}

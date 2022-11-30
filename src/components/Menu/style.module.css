@@ -1,0 +1,20 @@
+.card {
+  margin: 0px 20px;
+}
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.header {
+  text-align: left;
+  margin: 10px 20px;
+  font-weight: 300;
+}
+
+/* Card Header */
+.css-1qvr50w-MuiTypography-root {
+  font-family: 'Clicker' !important;
+}
