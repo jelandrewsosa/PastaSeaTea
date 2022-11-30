@@ -18,7 +18,7 @@ import MyOrdersListView from '../src/components/MyOrdersListView'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PastaSeateaContextComponent>
-      <HashRouter basename='/PastaSeaTea/'>
+      <BrowserRouter basename='/PastaSeaTea/'>
         <Routes>
           <Route path="/" element={<App />} />
           <Route path="/*" element={<NotFoundView />} />
@@ -32,7 +32,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/drinks" element={<Drinks />}/>
           <Route path="/myorder" element={<MyOrdersListView />}/>
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </PastaSeateaContextComponent>
   </React.StrictMode>
 );
